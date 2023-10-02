@@ -1,0 +1,23 @@
+h1{
+    color: darkmagenta;
+}
+.nam{
+    color: yellow;
+}
+.sum{
+    color: green;
+}
+img{
+    height:350px;
+    width:300px;
+    border: 10px solid red;
+}
+span{
+    color:lightblue;
+}
+a{
+    color: lightpink;
+}
+.about{
+    color: aquamarine;
+}
